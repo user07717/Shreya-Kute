@@ -60,6 +60,10 @@ Pivot Tables & Charts
 
 Data Visualization Techniques
 
+Acknowledgments
+This project was built by following the YouTube tutorial by Data Tutorial.  
+Dataset provided in the tutorial was used for learning purposes.
+
 Dashboard Creation
 <img width="1290" height="661" alt="Screenshot 2025-08-20 195512" src="https://github.com/user-attachments/assets/fba9cddf-d8df-4ea6-aa0f-cbffc3bd736b" />
 <img width="1152" height="585" alt="Screenshot 2025-08-20 195531" src="https://github.com/user-attachments/assets/274744dc-0b48-4fd7-9d67-43846ec11388" />
